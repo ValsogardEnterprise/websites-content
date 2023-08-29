@@ -1,0 +1,12 @@
+POV Gun
+DigitalCyan
+1/1/2012
+A quick overview of our latest opinion manipulation tech
+
+# Our latest in our firearms lineup
+
+The Point of View gun is a weapon that appears in the 2005 movie but not in any of the prior 
+versions of the story. The gun was designed by Deep Thought. It makes the victim see things from 
+the shooter's point of view.
+
+![POV Gun](https://static.wikia.nocookie.net/hitchhikers/images/7/7a/Pointofviewguntrillian.jpg)
