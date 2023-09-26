@@ -1,4 +1,3 @@
-Title
 Author
 Date, can be any format
 Short description

@@ -1,4 +1,3 @@
-How much does Metaverse development cost
 Drago
 8/29/2023
 It's good to know how much Metaverse development costs before plunging into losing money
