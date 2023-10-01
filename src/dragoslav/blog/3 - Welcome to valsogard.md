@@ -1,4 +1,4 @@
-Welcome to valsogard
+Welcome to Valsogard
 DigitalCyan
 8/26/23
 A quick glance at what we do at Valsgoard
@@ -21,8 +21,6 @@ We use a wide range of tools to achieve our goals, such as:
 2. Feet
 3. Teeth
 4. Hair
-
-![LinkedIn Post 01](https://raw.githubusercontent.com/ValsogardEnterprise/websites-content/371f47df995b60a62271c0c989ec6e634f01c2f5/src/dragoslav/img/LinkedIn%20Post%2001.png)
 
 ![image](https://variety.com/wp-content/uploads/2021/07/Rick-Astley-Never-Gonna-Give-You-Up.png?w=1024)
 
