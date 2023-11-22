@@ -4,3 +4,7 @@ Drago
 A quick overview of our latest opinion manipulation tech
 
 Content
+
+## The WordPress Era
+
+## The Next.js Era
