@@ -26,6 +26,8 @@ Cosmic Universe's 2D collection of Cosmic Wizards was at least beautiful and col
 
 
 
-3D NFT Showroom: 
-Web page - https://valsogard.com/portfolio/3d-nft-showroom
-Video - https://www.youtube.com/watch?v=m67rhdlPDiE
+### 3D NFT Showroom:
+
+[Web Page](https://valsogard.com/portfolio/3d-nft-showroom)
+
+[Demo Video](https://www.youtube.com/watch?v=m67rhdlPDiE)
