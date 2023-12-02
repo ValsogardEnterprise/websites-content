@@ -1,7 +1,7 @@
-The story of the most advanced 3D NFT system
+The Most Advanced 3D NFTs System
 Dragoslav "Drago" Pavlovic
 2nd December 2023
-The story of the most advanced 3D NFT system
+Full story of the most advanced 3D NFT system from its very start to present day, covering the technical, marketing and business aspects.
 
 # Short Version
 
