@@ -8,9 +8,10 @@ Full story of the most advanced 3D NFT system from its very start to present day
 - Flat 2D NFTs were crappy and unsustainable hype in 2021
 - Cosmic Universe wanted in-game playable 3D NFTs, so they hired me
 - I designed and implemented the core system as early as January 2022
-- My team and I successfully convert the 2D into 3D NFT collection
+- We successfully convert the NFT collection from 2D PFPs into in-game playable 3D characters
+- We start adding lots of features and expansions
 - The market crashes badly and nobody wants to hear about any NFTs
-- We are left with extremely advanced technologies with total value in the range of $$,$$$,$$$ 
+- We are left with extremely advanced technologies  
 
 # Full Story
 
