@@ -1,6 +1,6 @@
-Everything Wrong with today's Game Development
-Drago
-2nd October 2023
-A quick overview of our latest opinion manipulation tech
+CV6.us Project Announcement
+Dragoslav "Drago" Pavlovic
+7th December 2023
+Blog post where we announce or newest project - CV6.us
 
 Content
