@@ -1,6 +1,15 @@
-CV6.us Project Announcement
+The CV-6 USS Enterprise is getting restored
 Dragoslav "Drago" Pavlovic
 7th December 2023
-Blog post where we announce or newest project - CV6.us
+The CV-6 USS Enterprise is getting restored
 
-Content
+Today, on December 7th 2023, we are officially announcing our newest project [name] - Digital Restoration of the CV-6 USS Enterprise.
+
+###
+It is a multimedia digital restoration of the greatest ship newer to be preserved as a war museum ship. With this project, we aim to correct this injustice and allow everyone to remember and experience the USS Enterprise in its full glory.
+
+
+
+### Multimedia
+
+Why 
