@@ -15,3 +15,7 @@ With the digital 3D format, we would be able to offer the experience in plenty o
 
 
 The goal of this project is to create the ultimate experience connected with the greatest ever warship, the CV-6 USS Enterprise.
+
+historical documents, pictures, videos, knowledge library
+
+If there was one ship in the entire history of warships that deserved to be preserved, it was the CV-6 USS Enterprise.
