@@ -1,6 +1,6 @@
 The CV-6 USS Enterprise is getting restored
 Dragoslav "Drago" Pavlovic
-8th December 2023
+10th December 2023
 The CV-6 USS Enterprise is getting restored
 
 Today, on December 10th 2023, we are officially announcing our newest project - Digital Restoration of the CV-6 USS Enterprise.
