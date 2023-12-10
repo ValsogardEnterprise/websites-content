@@ -3,6 +3,8 @@ The CV-6 USS Enterprise is getting restored
 
 The CV-6 USS Enterprise is getting restored
 
+![CV-6 USS Enterprise](https://github.com/ValsogardEnterprise/websites-content/blob/main/src/valsogard/img/CV-6%20USS%20Enterprise%20-%20Restoration00016.png?raw=true)
+
 Today, on December 10th 2023, we are officially announcing our newest project - Digital Restoration of the CV-6 USS Enterprise.
 The goal of this project is to create the ultimate historical experience platform of the greatest warship ever, the CV-6 USS Enterprise.
 
