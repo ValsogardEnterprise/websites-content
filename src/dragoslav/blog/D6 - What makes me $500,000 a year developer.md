@@ -16,6 +16,10 @@ I study new technologies, tools and techniques. I
 
 # I understand all people's perspectives and interests
 
+# Extremely wide range of skills and experiences
+
+"Jack of all trades is a master of none" is a very popular quote nowadays. 
+
 
 # Speed
 in this blog post I'm going to tell you something.
